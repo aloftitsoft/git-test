@@ -1,4 +1,4 @@
 <?php
 
- $alamain = "amar sonar bangla ami toy --------";
+ $alamain = "amar sonar ";
 
