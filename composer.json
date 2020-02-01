@@ -1,0 +1,7 @@
+{
+    "name": "alamin/git-test",
+    "description": "git Test",
+    "require": {
+        "php": "7.2"
+    }
+}
