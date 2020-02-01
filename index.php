@@ -1,4 +1,5 @@
 <?php
 
- $alamain = "amar sonar sfsfsdfsdf";
+ $alamin = 2 + 1;
+ echo $alamin;
 
